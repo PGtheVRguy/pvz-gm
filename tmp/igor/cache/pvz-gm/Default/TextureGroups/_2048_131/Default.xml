@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1" mipsToGenerate="0" texwidth="64" texheight="64">default_0.bz2</texture>
+  <tpe x="2" y="2" tpage="default_0.bz2">spr_uiSel_661ea7a5-f0c7-468f-937d-e792e9788bf6.tpe</tpe>
+  <tpe x="2" y="38" tpage="default_0.bz2">spr_tile_a395488d-a860-4e75-9eb0-e25e79b037b8.tpe</tpe>
+  <tpe x="38" y="2" tpage="default_0.bz2">spr_pl_shooter_a14d2a1d-e56a-47b4-ab28-43707b18dd52.tpe</tpe>
+</TextureGroup>
